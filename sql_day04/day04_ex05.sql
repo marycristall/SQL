@@ -1,0 +1,1 @@
+SELECT * FROM v_price_with_discount;
